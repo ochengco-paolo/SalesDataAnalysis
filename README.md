@@ -12,7 +12,7 @@
 ### Deleting rows
 ![image](https://github.com/ochengco-paolo/SalesDataAnalysis/assets/140794262/dd353f9e-4061-4599-8d0b-a4d2dea4d763)
 
-### Result: 186,850 to 186,495 rows
+### Result: 186,850 to 186,498 rows
 ![image](https://github.com/ochengco-paolo/SalesDataAnalysis/assets/140794262/4b4a0c49-465d-45f2-befe-8c39ae21f9b7)
 
 ### Changing the data types
