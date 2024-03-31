@@ -59,8 +59,10 @@
 ![image](https://github.com/ochengco-paolo/SalesDataAnalysis/assets/140794262/41547cdc-7d9e-4773-a294-436885def85d)
 
 ### Parsing of order_date one by one
+![image](https://github.com/ochengco-paolo/SalesDataAnalysis/assets/140794262/57bc5ff0-8bfe-4a03-8281-7c135f177744)
 
 ### Updating date and time column
+![image](https://github.com/ochengco-paolo/SalesDataAnalysis/assets/140794262/45bc91e0-6f1f-489e-aa55-47b04c127b28)
 
 ###
 
